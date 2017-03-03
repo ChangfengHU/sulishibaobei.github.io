@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="//blog/"/>
-  <updated>2017-02-28T11:57:55.965Z</updated>
+  <updated>2017-02-22T08:02:29.928Z</updated>
   <id>//blog/</id>
   
   <author>
@@ -14,26 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="//blog/2017/02/28/tsconfig/"/>
-    <id>//blog/2017/02/28/tsconfig/</id>
-    <published>2017-02-28T11:53:30.468Z</published>
-    <updated>2017-02-28T11:57:55.965Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://github.com/sulishibaobei/typescript/blob/master/tsconfig.json.xmind" target="_blank" rel="external">Markdown</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://github.com/sulishibaobei/typescript/blob/master/tsconfig.json.xmind&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown&lt;/a&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>梧桐那么伤</title>
@@ -57,11 +37,11 @@
     </summary>
     
     
+      <category term="随笔" scheme="//blog/tags/%E9%9A%8F%E7%AC%94/"/>
+    
       <category term="遗失" scheme="//blog/tags/%E9%81%97%E5%A4%B1/"/>
     
       <category term="摩天轮" scheme="//blog/tags/%E6%91%A9%E5%A4%A9%E8%BD%AE/"/>
-    
-      <category term="随笔" scheme="//blog/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -84,11 +64,11 @@
     </summary>
     
     
-      <category term="随笔" scheme="//blog/tags/%E9%9A%8F%E7%AC%94/"/>
-    
       <category term="青城" scheme="//blog/tags/%E9%9D%92%E5%9F%8E/"/>
     
       <category term="旧事" scheme="//blog/tags/%E6%97%A7%E4%BA%8B/"/>
+    
+      <category term="随笔" scheme="//blog/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
